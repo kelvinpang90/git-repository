@@ -1,2 +1,2 @@
 ###it is my first git repository
-###git confilct master
+###git checkout conflict dev
